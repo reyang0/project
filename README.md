@@ -1,5 +1,15 @@
 # project
 Added files to practice:
-  (1) proper organization
-  (2) clean filenaming convention
-  (3) virtual environments
+  - proper organization
+  - clean filenaming convention
+  - virtual environments
+
+New directories:
+  - data = data files
+  - docs = documentation
+  - images = image files (ex., png)
+  - reports = report files
+  - src = code files
+
+Environment file:
+  - environment.yaml
