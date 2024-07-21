@@ -1,7 +1,8 @@
-name: dstoolbox
+name: project-env
 channels:
   - conda-forge
   - defaults
 dependencies:
   - scikit-learn=1.2.1
+  - python=3.10
 prefix: /opt/miniconda3/envs/dstoolbox
